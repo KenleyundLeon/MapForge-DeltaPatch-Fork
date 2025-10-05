@@ -1,5 +1,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Killers0992/MapForge/total?label=Downloads&labelColor=2e343e&color=00FFFF&style=for-the-badge)
 [![Discord](https://img.shields.io/discord/1216429195232673964?label=Discord&labelColor=2e343e&color=00FFFF&style=for-the-badge)](https://discord.gg/czQCAsDMHa)
+<a href="https://github.com/KenleyundLeon/DeltaPatch"><img src="https://image2url.com/images/1759565889245-ff2e02c2-1f19-4f72-bc06-43a3b77fb4bd.png" height="28px"></a>  
+
 # MapForge
 Plugin which allows you to customize SCP: SL map by using spawnable objects which server can spawn.
 
