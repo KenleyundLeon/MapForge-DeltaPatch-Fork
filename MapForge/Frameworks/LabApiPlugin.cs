@@ -20,6 +20,8 @@ namespace MapForge.Frameworks
 
         public override Version RequiredApiVersion { get; } = new Version(0, 4, 0);
 
+        public string githubRepo = "Killers0992/MapForge";
+
         public override void Disable()
         {
             ServerEvents.WaitingForPlayers -= PluginInitializer.InitializeObjects;
